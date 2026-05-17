@@ -38,7 +38,7 @@
 
 ```bash
 pip install requests urllib3
-git clone https://github.com/Zierax/Grafana-Final-Scanner.git
+git clone https://github.com/mahirmasud/Grafana-Final-Scanner.git
 chmod +x scanner.py
 python scanner.py -u https://grafana.example.com
 ```
